@@ -25,6 +25,7 @@ In this quickstart guide, you will:
 * Open and merge a pull request.
 
 ### Prerequisites
+https://192.168.0.130:1111![Screenshot_20240302-032856](https://github.com/user-attachments/assets/896ae438-37ce-4f60-afd8-a0ca1a00092e)
 
 * You must have a {% data variables.product.prodname_dotcom %} account. {% ifversion fpt or ghec %}For more information, see "[AUTOTITLE](/get-started/start-your-journey/creating-an-account-on-github)."{% endif %}
 
